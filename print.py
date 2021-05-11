@@ -1,0 +1,1 @@
+print("Cheetah bhi peetah hai")
